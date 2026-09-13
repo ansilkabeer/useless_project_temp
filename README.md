@@ -2,31 +2,31 @@
 
 
 
-# [Project Name] 🎯
+# NOTHING 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: njaanum alifum
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: alif mohammed - al azhar cet
+- Member 2: ansil kabeer - al azhar set
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+this is absolutly for nothing 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+do nothinbg
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+do nothing
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- 
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
